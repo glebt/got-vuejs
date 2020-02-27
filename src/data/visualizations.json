@@ -1,0 +1,9 @@
+{
+    visualizations: [
+        { 
+            img: "src/assets/visualizations/game-of-thrones-bubble-character.png",
+            title: "Bubble Character"
+        }, 
+        {}
+    ]
+}
