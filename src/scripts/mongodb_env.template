@@ -1,0 +1,4 @@
+#!/bin/bash
+#copy to mongo_env.sh
+#replace user/password
+export GOT_MONGODB_URI="mongodb+srv://<USERNAME>:<PASSWORD>@cluster0-fkepr.mongodb.net/test?retryWrites=true&w=majority"
